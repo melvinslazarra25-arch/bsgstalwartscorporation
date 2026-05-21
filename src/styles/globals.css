@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
+:root { color-scheme: light; }
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { margin: 0; font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; color: #111827; background: #f8fafc; }
+a { color: inherit; text-decoration: none; }
+.placeholder-grid { background-image: linear-gradient(135deg, rgba(255,255,255,.12) 25%, transparent 25%), linear-gradient(225deg, rgba(255,255,255,.12) 25%, transparent 25%), linear-gradient(45deg, rgba(255,255,255,.12) 25%, transparent 25%), linear-gradient(315deg, rgba(255,255,255,.12) 25%, rgba(15,39,70,.18) 25%); background-position: 16px 0, 16px 0, 0 0, 0 0; background-size: 32px 32px; background-repeat: repeat; }

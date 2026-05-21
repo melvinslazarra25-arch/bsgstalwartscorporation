@@ -225,3 +225,8 @@ Recommended monthly maintenance:
 ## Important
 
 Replace placeholder phone, email, project examples, credentials, and images with verified company details before final public launch.
+
+
+## GitHub Pages / Jekyll Note
+
+This repository includes a root `.nojekyll` file. This tells GitHub Pages not to process the project with Jekyll, which helps prevent issues with Vite/React static assets during deployment.
